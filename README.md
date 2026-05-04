@@ -13,11 +13,15 @@
 
 | Login Page | Student List (Main) |
 |:---:|:---:|
-| ![Login](screenshots/login.png) | ![List](screenshots/main.png) |
+| ![Login](screenshots/login.jpg) | ![List](screenshots/list.jpg) |
 
 | Detail & Notes | Add/Edit Form |
 |:---:|:---:|
-| ![Detail](screenshots/detail.png) | ![Form](screenshots/form.png) |
+| ![Detail](screenshots/detail.jpg) | ![Form](screenshots/form.jpg) |
+
+| Searching | Swipe to Delete |
+|:---:|:---:|
+| ![Detail](screenshots/search.jpg) | ![Form](screenshots/swipe.jpg) |
 
 
 ## Metode Penyimpanan Data
